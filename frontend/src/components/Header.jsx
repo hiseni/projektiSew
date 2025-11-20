@@ -6,6 +6,7 @@ import "../index.css";
 function Header() {
   return (
     <header className="bg-white shadow-md py-4 px-6 max-w-7xl mx-auto flex justify-between items-center">
+      <h1>ldsjlakds</h1>
       <Link to="/" className="flex items-center">
         <img className="w-24 h-auto" src={logo} alt="" />
       </Link>
